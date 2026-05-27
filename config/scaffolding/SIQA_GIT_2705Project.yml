@@ -7,12 +7,6 @@ packages:
   gitUrl: https://github.com/rimabarman
   gitUsername: rimabarman
   gitBranch: main
-- name: DADA_ExtendedProperty
-  version: "1.0"
-  gitServerName: rimaSCName
-  gitUrl: https://github.com/ParmelaDohling579
-  gitUsername: rimabarman
-  gitBranch: main
 services:
 - serviceName: project.siqa_git_2705.integrations:AlertsCRTandERT
   packages:
